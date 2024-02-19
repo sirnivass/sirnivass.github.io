@@ -17,7 +17,7 @@ Recursos utilizados:
 - Tema Dark
 
 Projeto no ar:
-[https://sirnivass.github.io/](https://sirnivass.github.io/)
+[https://sirnivass.github.io/index](https://sirnivass.github.io/index)
 
 Quer um currículo como esse? Dá uma olhada nesse vídeo:
 
@@ -25,4 +25,4 @@ Quer um currículo como esse? Dá uma olhada nesse vídeo:
 
 # CV
 Curriculum Vitae - Modelo : W3C
-Acesse: sirnivas.github.io
+Acesse: [https://sirnivass.github.io/cv](sirnivas.github.io/cv)
